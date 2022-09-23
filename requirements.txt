@@ -3,7 +3,7 @@ descartes==1.0.2
 matplotlib==1.5.3
 numpy==1.12.0
 opencv-python==3.1.0.3
-protobuf==3.1.0
+protobuf==3.18.3
 rasterio==0.36.0
 Shapely==1.5.17.post1
 scikit-learn==0.18.1
